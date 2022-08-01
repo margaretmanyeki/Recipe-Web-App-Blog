@@ -12,4 +12,4 @@ Search any recipe you love!
 
 ### Contact me
 
-[github.io](mailto:email@domain.com)
+[github.io](https://github.com)
